@@ -1,3 +1,3 @@
-import TabsNavigation from "./tabsNavigation";
+import TabsNavigation from "./TabsNavigation";
 
 export default TabsNavigation
